@@ -1,0 +1,8 @@
+D:\R54\M2\Projects\1\FactoryPatternSolution\FactoryPatternProject\obj\Debug\FactoryPatternProject.csproj.AssemblyReference.cache
+D:\R54\M2\Projects\1\FactoryPatternSolution\FactoryPatternProject\obj\Debug\FactoryPatternProject.csproj.SuggestedBindingRedirects.cache
+D:\R54\M2\Projects\1\FactoryPatternSolution\FactoryPatternProject\obj\Debug\FactoryPatternProject.csproj.CoreCompileInputs.cache
+D:\R54\M2\Projects\1\FactoryPatternSolution\FactoryPatternProject\bin\Debug\FactoryPatternProject.exe.config
+D:\R54\M2\Projects\1\FactoryPatternSolution\FactoryPatternProject\bin\Debug\FactoryPatternProject.exe
+D:\R54\M2\Projects\1\FactoryPatternSolution\FactoryPatternProject\bin\Debug\FactoryPatternProject.pdb
+D:\R54\M2\Projects\1\FactoryPatternSolution\FactoryPatternProject\obj\Debug\FactoryPatternProject.exe
+D:\R54\M2\Projects\1\FactoryPatternSolution\FactoryPatternProject\obj\Debug\FactoryPatternProject.pdb
